@@ -1,3 +1,3 @@
 # Java-MOOC
-Course 1 exercises of the Java MOOC, at https://java-programming.mooc.fi/
+Java MOOC exercises, at https://java-programming.mooc.fi/
 
